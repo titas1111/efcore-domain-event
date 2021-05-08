@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "efcore-domain-event", "efcore-domain-event.csproj", "{399F8889-9178-4085-8211-D5666FB81533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399F8889-9178-4085-8211-D5666FB81533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399F8889-9178-4085-8211-D5666FB81533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399F8889-9178-4085-8211-D5666FB81533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399F8889-9178-4085-8211-D5666FB81533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB747F8-3CB7-41FE-ACF0-DCAABA709162}
+	EndGlobalSection
+EndGlobal
